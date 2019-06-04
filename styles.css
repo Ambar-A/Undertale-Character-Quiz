@@ -1,0 +1,55 @@
+
+html{  
+    background: black;
+}
+
+h1, h2, .questions, .second {
+    text-align: center;
+    color: white;
+    }
+    
+h1 {
+    
+    font-family: 'Press Start 2P', cursive;
+}
+
+h2 {
+    font-family: 'Rajdhani', sans-serif;    
+}
+
+.questions {
+    font-family: 'Dokdo', cursive;
+    color: white;
+}
+
+
+
+
+.input {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    font-family: 'Cute Font', cursive;
+    color: red;
+    font-size: 20px;
+}
+
+.go {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    color: white;
+    background-color: black;
+}
+
+.second {
+color: white;
+font-family: 'Cute Font', cursive;
+font-size: 50px;
+}
+
+.sans, .toriel, .papyrus, .flowey, .chara, .frisk, .asriel {
+    visibility: hidden;
+    }
